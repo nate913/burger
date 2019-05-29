@@ -1,3 +1,13 @@
+body{
+    background-color: #5cb85c;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNsJCfGEx8Q1kfznBeDYqO9a6HZCegetMgdaqnwRoJwd7UNaomNQ")
+}
+
+.container{
+    background-color:black;
+}
+
+
 .jumbotron {
     background-image: url("/assets/img/background.gif");
     background-repeat: no-repeat;
@@ -19,7 +29,7 @@
 }
 
 #lefthead {
-    background-color: #5cb85c;
+    background-color: red;
     color: white;
     text-align: center;
     font-size: 1.2em;
@@ -30,7 +40,7 @@
 }
 
 #righthead {
-    background-color: #f0ad4e;
+    background-color:rgb(209, 209, 33);
     color: white;
     text-align: center;
     font-size: 1.2em;
